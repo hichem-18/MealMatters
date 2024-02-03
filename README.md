@@ -14,6 +14,19 @@ MealMatters is a webapp designed to overcome student food insecurity by connecti
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </p>
 
+## Table of Contents
+- [Introduction](#introduction)
+- [Local Setup](#configure-and-run-on-local-environment)
+   - [Client (Frontend)](#client-frontend)
+   - [Server (Backend)](#server-backend)
+- [How to Contribute](#how-to-contribute)
+- [Screenshots](#screenshots)
+- [Troubleshooting](#troubleshooting)
+- [Deployment](#deployment)
+- [Dependencies](#dependencies)
+- [Connect with Project Admin](#connect-with-project-admin)
+- [License](#license)
+
 ## Configure and run on local environment
 **Project directory/folder structure:**
 * client (Frontend) : This folder contains all the code related to Frontend part.
